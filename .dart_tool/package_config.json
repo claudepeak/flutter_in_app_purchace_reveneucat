@@ -62,10 +62,28 @@
       "languageVersion": "2.17"
     },
     {
+      "name": "freezed_annotation",
+      "rootUri": "file:///Users/alperduzgun/.pub-cache/hosted/pub.dev/freezed_annotation-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "get",
+      "rootUri": "file:///Users/alperduzgun/.pub-cache/hosted/pub.dev/get-4.6.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
       "name": "js",
       "rootUri": "file:///Users/alperduzgun/.pub-cache/hosted/pub.dev/js-0.6.5",
       "packageUri": "lib/",
       "languageVersion": "2.16"
+    },
+    {
+      "name": "json_annotation",
+      "rootUri": "file:///Users/alperduzgun/.pub-cache/hosted/pub.dev/json_annotation-4.8.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
     },
     {
       "name": "lints",
@@ -94,6 +112,12 @@
     {
       "name": "path",
       "rootUri": "file:///Users/alperduzgun/.pub-cache/hosted/pub.dev/path-1.8.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "purchases_flutter",
+      "rootUri": "file:///Users/alperduzgun/.pub-cache/hosted/pub.dev/purchases_flutter-4.11.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -152,7 +176,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2023-04-11T18:05:52.503751Z",
+  "generated": "2023-04-11T18:12:53.006363Z",
   "generator": "pub",
   "generatorVersion": "2.19.6"
 }
